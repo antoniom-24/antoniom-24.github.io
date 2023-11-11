@@ -66,23 +66,19 @@ footer {
 }
 
 #yape1{
-    width: 300px;
-    float: right;
-    margin-right: 70px;
+    width: 370px;
 }
 #escrib{
-    float: left;
-    margin-left: 40px;
     font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 #instagram1{
-    width: 400px;
-    
+    width: 370px;
+    border-radius: 20%;
+    border: solid black 5px;
 }
 #instagram2{
-    float: left;
     text-align: center;
-    margin-left: 40px;
 }
 #wsp1{
     width: 300px;
